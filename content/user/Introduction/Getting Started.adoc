@@ -5,44 +5,40 @@ Weight: 20
 
 :imagesdir: ./../../../images/en/user
 
-= Getting Started
+= Pierwsze kroki
 
-== Logging Into SuiteCRM
+== Logowanie do SuiteCRM
 
 SuiteCRM allows users to log in using your Username and Password,
-provided to you by the System Administrator.
+hasła, dostarczonych przez administratora systemu.
 
-image:190Home_screen.png[title="Home Screen"]
+image:190Home_screen.png[title="Ekran główny"]
 
-image:02Login_with_language.png[title="Language Select"]
+image:02Login_with_language.png[title="Wybór języka"]
 
-Before logging into SuiteCRM, you can select the language you wish to
-use. There are many default languages for SuiteCRM and there are also
-additional language packs available for other languages around the
-world.
+Przed zalogowaniem się do SuiteCRM możesz wybrać język, którego chcesz używać
+Istnieje wiele domyślnych języków dla SuiteCRM i są dostępne dodatkowe pakiety 
+dla wielu językó z całego świata.
 
-Once you have chosen your language and have entered your user
-credentials, you will be able to click the Login button to access the
-CRM.
+Po wybraniu języka i wprowadzeniu loginu i hasła użytkownika, będziesz
+mógł kliknąć przycisk Zaloguj, aby uzyskać dostęp do CRM.
 
-image:191Log_in.png[title="Log in"]
+image:191Log_in.png[title="Logowanie"]
 
-== Forgotten Password
+== Nie pamiętam hasła
 
-If you forget your CRM password and cannot access your CRM user account,
-you can use the 'Forgotten Password' feature to re-send your password to
-the email address associated to your user account. Clicking the 'Forgot
-Password?' link on the login form will display the forgotten password
-form.
+Jeśli zapomnisz hasła CRM i nie będziesz mieć dostępu do konta użytkownika CRM,
+możesz użyć funkcji "Nie pamiętam hasła", aby ponownie wysłać swoje hasło na adres 
+e-mail powiązany z Twoim kontem użytkownika. Kliknięcie linku "Nie pamiętasz hasła?"
+przekieruje cię do formularza odzyskiwania haseł.
 
-image:179Forgot_password.png[title="Forgotten Password"]
+image:179Forgot_password.png[title="Nie pamiętam hasła"]
 
-== Summary
+== Podsumowanie
 
-In this chapter we have demonstrated how to access SuiteCRM using the
-login form. We have also established how to use the forgotten password
-functionality to retrieve a users password in the event of the password
-being lost or forgotten.
+W tym rozdziale pokazaliśmy, jak uzyskać dostęp do SuiteCRM za pomocą formularza logowania. 
+Ustaliliśmy również, jak korzystać z funkcji odzyskiwania haseł, aby odzyskać hasło 
+użytkownika w przypadku jego zagubienia lub zapomnienia.
 
-In the next chapter we will cover the User Wizard, which allows you to
-set your preferences when using SuiteCRM.
+W następnym rozdziale omówimy Kreatora użytkownika, który pozwala ustawić 
+preferencje korzystania z SuiteCRM.
