@@ -5,27 +5,26 @@ Weight: 50
 
 :imagesdir: ./../../../images/en/user
 
-= User Interface
+= Interfejs użytkownika
 
-Before we progress to understanding the structure and functionality of
-SuiteCRM, we will cover the areas of the User Interface so that you are
-familiar with terminology used when describing navigating SuiteCRM.
-There are many elements to the User Interface, so we have broken these
-down into various sections below.
+Zanim przejdziemy do wyjaśnienia struktury i funkcjonalności SuiteCRM, 
+omówimy elementy interfejsu użytkownika, aby zapoznać się z terminologią 
+używaną podczas nawigacji w SuiteCRM. Interfejs użytkownika zawiera wiele 
+elementów, więc podzieliliśmy je na różne sekcje poniżej.
 
-== Navigation Elements
+== Elementy nawigacyjne
 
-The ability to easily view and navigate to areas of the CRM is key to
-improved productivity and user adoption. SuiteCRM has a clear UI which
-has various elements we will cover in this section.
+Zdolność do łatwego przeglądania i nawigowania w CRM jest kluczem do poprawy 
+produktywności i wdrażania użytkowników. SuiteCRM ma przejrzysty interfejs użytkownika, 
+zawierający różne elementy, które omówimy w tej sekcji.
 
-=== Top navigation menu
+=== Górne menu nawigacyjne
 
-The top navigation menu is the main menu users will use to navigate to
-modules to create and manage records. The standard layout for the top
-navigation is a list of 10 modules. The ordering for this menu is
-determined by the order of the modules in Admin → Display Modules and
-Subpanels. The top navigation menu has six elements. These are:
+Górne menu nawigacyjne to główne menu, z którego użytkownicy będą korzystać 
+przechodząc do modułów, tworząc rekordy i zarządzając nimi. Standardowy układ 
+dla górnej nawigacji to lista 10 modułów. Kolejność tego menu zależy od kolejności 
+modułów w menu Administrator → Wyświetl moduły i subdpanele. 
+Górne menu nawigacyjne składa się z sześciu elementów. Są to:
 
 * *CRM Name* – This is the name for the CRM which is specified on
 installation. This defaults to SuiteCRM.
