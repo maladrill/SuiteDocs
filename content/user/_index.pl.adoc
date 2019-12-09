@@ -1,8 +1,8 @@
 ---
-title: "User Guide"
+title: "Instrukcja obsługi"
 weight: 10
 pre: "<b>1. </b>"
 ---
 
-=== Table of Contents
+=== Spis treści
 {{% children depth="3" showhidden="false" %}}
