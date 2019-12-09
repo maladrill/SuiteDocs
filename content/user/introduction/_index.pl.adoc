@@ -1,0 +1,115 @@
+---
+Title: "Wprowadzenie"
+Weight: 10
+---
+
+:imagesdir: /images/en/user
+
+= Wprowadzenie
+
+== Zespół i społeczność SuiteCRM
+ 
+
+Można bezpiecznie powiedzieć, że bez ciągłej pracy ze strony zespołu i społeczności 
+SuiteCRM nie miałbym siły i chęci zaangażowania się, aby siedzieć i pisać ten 
+podręcznik użytkownika. Nowe funkcjonalności i poprawki systemu są dodawane na bieżąco,
+dzięki czemu SuiteCRM jest najlepszym otwartoźródłowym CRM na świecie, zdolnym 
+do konkurowania z producentami własnościowego oprogramowania CRM jak SugarCRM, 
+Salesforce i Microsoft. 
+
+Jeżeli chodzi o społeczność SuiteCRM, to zgłasza ona błędy i dostarcza
+dla nich popawki jak również testuje te poprawki. Społeczność jest sercem
+każdego projektu otwartoźródłowego i tak samo jest z projektem SuiteCRM. Z każdym 
+nowym wydaniem społeczość rośnie w siłę, a wraz z nią przybywa korzyści 
+w otwartoźródłowym ekosystemie. 
+
+== Czym jest SuiteCRM?
+ 
+
+SuiteCRM to odgałęzienie popularnego systemu 
+https://pl.wikipedia.org/wiki/Zarz%C4%85dzanie_relacjami_z_klientami[zarządzania relacjami z klientem] (CRM) 
+https://pl.wikipedia.org/wiki/SugarCRM[SugarCRM], rozwijane 
+i zarządzane przez firmę SalesAgility. Jest to oprogramowanie
+bezpłatne i otwartoźródłowe. Zostało wydane 21 października 2013 r.
+jako wersja 7.0 Ostatnia wersja produkcyjna w czasie publikacji tego
+przewodnika to SuiteCRM 7.6.3
+
+Od czasu pierwszego wydania SuiteCRM został pobrany ponad 500 000 razy. 
+System został wykorzystany przez NHS (brytyjski odpowiednik polskiego
+NFZ), w programie Code for Health, który wspiera wykorzystywanie 
+otwartego oprogramowania w NHS.
+
+Założeniem projektu SuiteCRM jest, aby każda linia kodu wydana
+w ramach projektu była otwartoźródłowa. Projekt SuiteCRM jest zamierzony 
+jako otwarte oprogramowanie klasy biznesowej będące alternatywą
+dla rozwiązań własnościowych.
+
+Dostępna jest mapa drogowa przedstwiająca szczegóły planowanych usprawnień.
+
+Forum wsparcia zrzeszające ponad 25 000 członków oferuje bezpłatne 
+wsparcie techniczne i jest regularnie monitorowane i aktualizowane 
+przez zespół projektu.
+
+Płatne i bezpłatne rozszerzenia dostępne są w publicznym katalogu.
+
+W ramach projektu dostępna jest usługa SaaS (oprogramowanie jako usługa) 
+https://suitecrmondemand.com/[SuiteCRM:OnDemand] dla użytkowników 
+oczekujących szybkiego uruchomienia i usługi nie wymagającej obsługi
+technicznej.
+
+Żadna część projektu zarządzana przez SalesAgility nie będzie 
+oprogramowaniem licencjonowanym. Cały kod jest bezpłatny. Cały kod
+jest dostępny do bezpłatnego pobrania. Nie ma żadnych haczyków,
+aby pobierać opłaty za dostęp do kodu. SuiteCRM jest i zawsze będzie
+bezpłatny i będzie wolnym oprogramowaniem. Nie będzie także 
+żadnych płatnych wersji.
+
+==Czym jest SalesAgility?
+ 
+
+SalesAgility to posiadająca akredytację ISO firma konsultingowa
+zajmująca się wolnym oprogramowaniem, która skupia się na systemie 
+zarządzania relacjami z klientami. Jako jedna z pierwszych firm 
+zajmujących się SugarCRM Community Edition Sales Agility jest 
+odpowiedzialna za stworzenie i rozwój ogałęzienia SugarCRM - 
+SuiteCRM
+
+Firma SalesAgility ma na koncie ponad 300 projektów programistycznych 
+dla SugarCRM i SuiteCRM i jest znana jako światowej klasy firma ekspercka 
+w zaotwartoźródłowych systemów CRM. Wśród jej klientów są rządy państw,
+korporacje oraz małe i średnie firmy z całego świata.
+
+Misja SalesAgility jest bardzo jasna:
+
+[quote]
+Naszym celem jest tworzyć innowacje i dostarczać
+zaawansowane rozwiązania dla SuiteCRM wraz z wyjątkową
+obslugą klienta i wsparciem technicznym.
+
+[quote]
+Wierzymy, że wolne oprogramowanie jest w najlepszym interesie naszych
+klientów i będziemy kontynuować budowanie, tworzenie innowacji, nawracanie
+i dostarczanie modeli roboczych najlepszych praktyk dla społeczności 
+wolnego oprogramowania.
+
+== Co znajduje się w podręczniku użytkownika?
+
+
+Podręcznik użytkownika został napisany dla użytkownika końcowego.
+Ten podręcznik pokrywa całą podróż użytkownika od początku do końca.
+W jego ramach zwiedzimy wszystkie obszary - od podstaw logowania
+aż do tworzenia złożonych procesów automatycznych i raportów.
+
+Podręcznik użytkownika SuiteCRM jest podzielony na kilka rozdziałów.
+Rozdziały są podzielona w taki sposób, aby umożliwić rozwój użytkownika
+wraz z poznawaniem tego przewodnika w logiczny sposób zgodnie 
+ze standardowym wykorzystaniem systemu CRM. Rozdziały zawierają podrozdziały,
+które pomogą pozbyć się ograniczeń w wykorzystaniu systemu i wyjaśniając
+jak zoptymalizować zarządzanie relacjami z klientem by efektywnie zarządzać
+danymi sprzedażowymi.
+
+Czytelnicy podręcznika użytkownika SuiteCRM nie muszą posiadać
+jakiejkolwiek wiedzy programistycznej lub znajomości SuiteCRM. Wystarczy
+umiejętność obsługi komputera, umiejętność obsługi wybranej przeglądarki
+stron WWW oraz tego, by mieć dostęp do zainstalowanego oraz skonfigurowanego 
+systemu SuiteCRM.
